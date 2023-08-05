@@ -131,7 +131,7 @@ const HeroBanner = () => {
               <video
                 className="w-100 p-0 m-0 object-fit-cover h-100 video_desktop"
                 src={"/videos/Hero.mp4"}
-                poster={"/videos/Hero.mp4"}
+                poster={"images/HeroPlaceholder.png"}
                 controls={false}
                 loop
                 autoPlay={true}
